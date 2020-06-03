@@ -2,7 +2,7 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 global: {}
-
+connectsTo: crw-inv-svc-yks
 replicaCount: 1
 logLevel: "debug"
 
